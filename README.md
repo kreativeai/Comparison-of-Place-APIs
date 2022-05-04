@@ -1,1 +1,1 @@
-# Comparison-of-Place-APIs
+# Comparison of the Place APIs
