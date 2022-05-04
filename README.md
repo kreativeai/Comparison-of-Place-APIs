@@ -50,3 +50,11 @@ In this project, a database of restaurants, bars and various points of interest 
 ## Comparison of the usage of the APIs
 <img width="890" alt="usage of api" src="https://user-images.githubusercontent.com/78861401/166740136-5a5be4bc-cc77-4b84-ba87-0fe0115c20d6.png">
 
+## Tech Stack
+- numpy/pandas
+- sklearn
+- matplotlib
+- sqlite
+- Foursquare API
+- Yelp API
+- Google Places API
